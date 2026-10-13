@@ -1,0 +1,35 @@
+.header{
+    
+    border: 1px;
+    border-radius: 10px;
+    background-color: gray;
+    height: 100px;
+    margin-bottom: 20px;
+}
+.aside{
+    border: 1px;
+    border-radius: 10px;
+    background-color: rgb(109, 0, 0);
+    float: left;
+    height: 700px;
+    width: 28%;
+}
+.main{
+    border: 1px;
+     border: 1px;
+    border-radius: 10px;
+    background-color: rgb(224, 158, 195);
+    float: right;
+    height: 700px;
+    width: 70%;
+}
+.footer{
+    margin-top: 20px;
+    border: 1px;
+     border: 1px;
+    border-radius: 10px;
+    background-color: rgb(172, 158, 224);
+    float: right;
+    height: 50px;
+    width: 100%;
+}
